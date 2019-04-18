@@ -2,7 +2,9 @@
 local Storage for NativeScript
 
 https://play.nativescript.org
+
 add storage folder
+
 put this index.js file into "storage" folder
 
 var Storage = require("../storage");
