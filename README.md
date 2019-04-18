@@ -8,6 +8,7 @@ add storage folder
 put this index.js file into "storage" folder
 
 var Storage = require("../storage");
+
 var storage = new Storage();
 
 storage.set("storageKey1", "storageValue1");
